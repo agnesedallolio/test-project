@@ -1,4 +1,5 @@
 #include <iostream>
+#include "subdirectory/my_class.hpp"
 
 int main(int argc, char **argv){
 

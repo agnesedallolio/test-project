@@ -1,5 +1,6 @@
 class MyClass
 {
 public :
-MyCLass()=default;
+MyClass()=default;
+~MyClass()=default;
 }
